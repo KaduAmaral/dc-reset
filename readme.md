@@ -13,4 +13,4 @@ Incluir a tag no início do `head`:
 Site
 ----
 
-(Devcia)[http://devcia.com]
+[Devcia](http://devcia.com)
