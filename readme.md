@@ -14,3 +14,8 @@ Site
 ----
 
 [Devcia](http://devcia.com)
+
+Licença
+-------
+
+Projeto sobre a [licença MIT](http://opensource.org/licenses/mit-license.php)
