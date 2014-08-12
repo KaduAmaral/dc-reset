@@ -1,14 +1,14 @@
-/**************************************
- * @package				DC Reset            *
- * @version 			1.0.0               *
- * @organization	DevCia              *
- * @website 			devcia.com          *
- * @author 				KaduAmaral          *
- **************************************
- * Arquivo para resetar o CSS padrão  *
- * dos browsers removendo assim       *
- * qualquer influência sobre seu      *
- * estilo.                            *
+/***************************************
+ * @package          DC Reset          *
+ * @version          1.0.1             *
+ * @organization     DevCia            *
+ * @website          devcia.com        *
+ * @author           KaduAmaral        *
+ ***************************************
+ * Arquivo para resetar o CSS padrão   *
+ * dos browsers removendo assim        *
+ * qualquer influência sobre seu       *
+ * estilo.                             *
  **************************************/
 /* Resetando margins e paddgin, também tamanho da fonte */
 *,html,body,article,aside,b,blockquote,button,canvas,caption,cite,code,col,colgroup,dd,
